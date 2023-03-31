@@ -1,2 +1,4 @@
 # simgeekiz.github.io
-Redirects to my personal website
+This repository redirects simgeekiz.github.io to my personal website(simge.basar.dev)
+
+
